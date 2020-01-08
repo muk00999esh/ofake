@@ -1,0 +1,20 @@
+{
+  "mypost" : [
+    {
+    "eligibilityId":"274743096F19780426",
+    "lastName":"Dotson",
+    "firstName":"Staci",
+    "birthDate":"1978-04-26",
+    "eligibilePrograms":"OB",
+    "eligiblePlanName":"CHP HOME OFFICE EXCLUSIVE MEDI"
+    },
+    {
+        "eligibilityId":"184743096F19780426",
+        "lastName":"John",
+        "firstName":"Cusac",
+        "birthDate":"1986-07-12",
+        "eligibilePrograms":"OH",
+        "eligiblePlanName":"CHP HOME OFFICE EXCLUSIVE MEDI"
+    }
+]
+}
